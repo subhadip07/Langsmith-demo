@@ -18,7 +18,7 @@ def get_weather_data(city: str) -> str:
   """
   This function fetches the current weather data for a given city
   """
-  url = f'http://api.weatherstack.com/current?access_key=0e07dd417a4b185a6d7cf6c4cc1539b5&query={city}'
+  url = f'http://api.weatherstack.com/current?access_key=(Your_Access_key)&query={city}'
 
   response = requests.get(url)
 
