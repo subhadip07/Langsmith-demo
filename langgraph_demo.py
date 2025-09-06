@@ -120,10 +120,10 @@ if __name__ == "__main__":
             "tags": ["essay", "langgraph", "evaluation"],
             "metadata": {
                 "essay_length": len(essay2),
-                "model": "openai/gpt-oss-120b",
+                "model": "gpt-oss-120b",
                 "dimensions": ["language", "analysis", "clarity"],
-            },
-        },
+            }
+        }
     )
 
     print("\n=== Evaluation Results ===")
