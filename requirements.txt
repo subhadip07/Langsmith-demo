@@ -3,7 +3,7 @@ langchain
 langsmith
 python-dotenv
 langchain-groq
-langchain_tavily
+langchain-tavily
 langgraph-cli[inmem]
 langchain_community
 faiss-cpu 
