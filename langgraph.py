@@ -120,7 +120,7 @@ if __name__ == "__main__":
             "tags": ["essay", "langgraph", "evaluation"],
             "metadata": {
                 "essay_length": len(essay2),
-                "model": "gpt-4o-mini",
+                "model": "openai/gpt-oss-120b",
                 "dimensions": ["language", "analysis", "clarity"],
             },
         },

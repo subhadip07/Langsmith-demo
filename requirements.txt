@@ -4,10 +4,12 @@ langsmith
 python-dotenv
 langchain-groq
 langchain-tavily
-langgraph-cli[inmem]
+# langgraph-cli[inmem]
 langchain_community
 faiss-cpu 
 pypdf
 tiktoken 
 langchain-google-genai
 pydantic
+langgraph-prebuilt
+ipykernel
