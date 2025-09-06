@@ -6,3 +6,7 @@ langchain-groq
 langchain_tavily
 langgraph-cli[inmem]
 langchain_community
+faiss-cpu 
+pypdf
+tiktoken 
+langchain-google-genai
